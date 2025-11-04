@@ -1,10 +1,10 @@
-FSC-set-counting-localization-of-football-supporters-crowd-in-the-stadiums
+#FSC-set-counting-localization-of-football-supporters-crowd-in-the-stadiums
 
 This repository contains the datasets of football supporters crowd in the stadium for the paper:
 
-"Refined Edge Detection With Cascaded and High-Resolution Convolutional Network"
+"FSC-set: counting, localization of football supporters crowd in the stadiums"
 
-The crowd counting and localization data is intended to support research in dense crowd analysis. This dataset is a resource for projects related to the code in: https://github.com/zhuoinoulu/pidinet.
+The crowd counting and localization data is intended to support research in dense crowd analysis. This dataset can be found : [https://github.com/zhuoinoulu/pidinet.](https://drive.google.com/drive/folders/1A_6ohodGYK7M_ZCyBugny1PP4FJv4u0Y?usp=sharing)
 
 <img src="https://github.com/elharroussomar/chrnet/blob/main/Model.jpg" alt="CH-RNet Model Architecture Diagram">
 
