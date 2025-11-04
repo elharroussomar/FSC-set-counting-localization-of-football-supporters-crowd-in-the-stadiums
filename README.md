@@ -6,7 +6,7 @@ This repository contains the datasets of football supporters crowd in the stadiu
 
 The crowd counting and localization data is intended to support research in dense crowd analysis. This dataset can be found : https://drive.google.com/drive/folders/1A_6ohodGYK7M_ZCyBugny1PP4FJv4u0Y?usp=sharing
 
-<img src="https://github.com/elharroussomar/FSC-set-counting-localization-of-football-supporters-crowd-in-the-stadiums/blob/main/FSC-Set-Samples.png" alt="FSC-Set-Samples">
+
 <div class="animate-fade-in-delay h-64 md:h-96">
    <img src="https://github.com/elharroussomar/FSC-set-counting-localization-of-football-supporters-crowd-in-the-stadiums/blob/main/FSC-Set-Samples.png" alt="FSC-Set-Samples">
 </div>
