@@ -3,8 +3,6 @@ The FSC-Set (Football Supporters Crowd Dataset) is a large-scale collection of i
 
 This dataset addresses the critical scarcity of annotated data for crowd scene analysis, particularly in sports venues, providing essential resources for research in areas like public safety, crowd management, and video surveillance systems.
 THe dataset can be found in 
-
-
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="@article{Elharrouss2022FSCSet,
   title={FSC-Set: Counting, Localization of Football Supporters Crowd in the Stadiums},
   author={Elharrouss, Omar and Almaadeed, Noora and Abualsaud, Khalid and Al-Maadeed, Somaya and Al-Ali, Aisha and Al-Maadeed, Alaa},
