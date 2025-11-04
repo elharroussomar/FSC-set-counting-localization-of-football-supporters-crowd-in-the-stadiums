@@ -6,7 +6,7 @@ This repository contains the datasets of football supporters crowd in the stadiu
 
 The crowd counting and localization data is intended to support research in dense crowd analysis. This dataset can be found : [https://github.com/zhuoinoulu/pidinet.](https://drive.google.com/drive/folders/1A_6ohodGYK7M_ZCyBugny1PP4FJv4u0Y?usp=sharing)
 
-<img src="https://github.com/elharroussomar/chrnet/blob/main/Model.jpg" alt="CH-RNet Model Architecture Diagram">
+<img src="https://github.com/elharroussomar/chrnet/blob/main/FSC-Set-Samples.png" alt="FSC-Set-Samples">
 
 📝 Dataset Overview
 
